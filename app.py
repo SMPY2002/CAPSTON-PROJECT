@@ -54,7 +54,7 @@ classes = {
 
 # GPT - API KEY 
 
-GOOGLE_API_KEY = 'AIzaSyBCRE-J5cGyqRIF60nH4KAneVeJUCg3qxU'
+GOOGLE_API_KEY = 'YOUR_GEMINI_API_KEY'
 
 genai.configure(api_key=GOOGLE_API_KEY)
 
@@ -457,7 +457,7 @@ def download(filename):
 
 # Function to fetch health-related blog data from News API
 def get_health_blogs():
-    api_key = '8a72e144684548f799f666a992565b33'
+    api_key = 'YOUR_NEWS_API_KEY'
     
     # Fetch health-related news from around the world
     world_news_url = f'https://newsapi.org/v2/everything?q=health&apiKey={api_key}'
@@ -523,7 +523,7 @@ def health_blog():
     query = request.args.get('query')
     if query:
         # Search query is provided, fetch search results
-        api_key = '8a72e144684548f799f666a992565b33'
+        api_key = 'YOUR_NEWSAPI_API_KEY'
         url = f'https://newsapi.org/v2/everything/india+health?q={query}&apiKey={api_key}'
         response = requests.get(url)
         if response.status_code == 200:
@@ -611,7 +611,7 @@ def health_blog():
 @app.route('/tag_search/<tag>')
 def tag_search(tag):
     # Search for blog posts containing the tag
-    api_key = '8a72e144684548f799f666a992565b33'
+    api_key = 'YOUR_NEWSAPI_API_KEY'
     url = f'https://newsapi.org/v2/everything?q={tag}&apiKey={api_key}'
     response = requests.get(url)
     if response.status_code == 200:
@@ -674,7 +674,7 @@ def tag_search(tag):
 def search():
     query = request.args.get('query')
     if query:
-        api_key = '8a72e144684548f799f666a992565b33'
+        api_key = 'YOUR_NEWSAPI_API_KEY'
         url = f'https://newsapi.org/v2/everything?q={query}&apiKey={api_key}'
         response = requests.get(url)
         data = response.json()
