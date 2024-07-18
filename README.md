@@ -39,18 +39,19 @@ Displays health-related news and articles sourced from NewsAPI, ensuring users a
 * Research Paper on Skin Cancer --> ( https://ieeexplore.ieee.org/document/9397987 ) [ **Detection and Classification of Skin Cancer by Using a Parallel CNN Model** ]
 ## Screenshots 
 Here are some pics of the website interface
-![Screenshot 2024-04-24 215430](https://github.com/user-attachments/assets/89ef85cc-7ae4-4cfb-8484-37d839cb0347)
-
+![Screenshot 2024-07-18 212606](https://github.com/user-attachments/assets/a679b67d-faaf-419c-aacf-0ea456ebf29c)
+  **Advance Test**
 ![Screenshot 2024-04-24 215502](https://github.com/user-attachments/assets/2215bc17-ff4d-49e7-abd0-30236210fee8)
-
+  **Herat Attack Detection**
 ![Screenshot 2024-04-24 215106](https://github.com/user-attachments/assets/fea93d80-5a08-464b-96e0-16906d242b02)
-
+  **Skin Disease Detection**
+![Screenshot 2024-07-18 212459](https://github.com/user-attachments/assets/da081df5-dde0-4ac6-82e0-ef5b60c37d75)
+  **Thyroid Detection**
 ![Screenshot 2024-04-24 215210](https://github.com/user-attachments/assets/ab06ab59-e40e-4a15-8a71-d68dce71f84c)
+  **Health Briefs & Articles**
+![Screenshot 2024-07-18 212352](https://github.com/user-attachments/assets/736de4fe-b976-463d-b900-c786071e5385)
 
-
-
-
-
+![Screenshot 2024-07-18 212418](https://github.com/user-attachments/assets/96e34093-79b7-4c61-8215-4f49c311c9c2)
 
 
 
