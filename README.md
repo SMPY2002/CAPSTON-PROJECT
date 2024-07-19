@@ -53,9 +53,9 @@ Here are some pics of the website interface
 
 ![Screenshot 2024-07-18 212418](https://github.com/user-attachments/assets/96e34093-79b7-4c61-8215-4f49c311c9c2)
 
-
-
-
+## Other Contributors
+  * __Shivam Mishra__  [Github] --> { Shivam0000718 }
+  * __Shubham Mishra__ [Github] --> { sbpy100 }
 
 ## Future Enhancements
 * Incorporate more advanced machine learning models for enhanced diagnostics.
