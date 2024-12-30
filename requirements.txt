@@ -8,3 +8,4 @@ fpdf==1.7.2
 google-generativeai==0.8.3
 gunicorn==23.0.0
 python-dotenv==1.0.1
+IPython==8.22.2
