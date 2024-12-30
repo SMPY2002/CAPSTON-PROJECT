@@ -18,7 +18,8 @@ from IPython.display import display
 from IPython.display import Markdown
 import PIL.Image
 from dotenv import load_dotenv
-
+import nltk
+nltk.download('stopwords')
 
 # Load the TensorFlow Lite model
 def load_tflite_model(model_path):
